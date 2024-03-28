@@ -1,0 +1,17 @@
+ /*import "./file1.js";import*/
+function multiply(a, b) {
+  return a * b;
+}
+
+function sum(a, b) {
+  return a + b;
+}
+function multiply(a, b) {
+  return a * b;
+}
+
+function diff(a, b) {
+  return a - b;
+}
+
+
